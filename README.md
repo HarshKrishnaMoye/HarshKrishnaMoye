@@ -33,6 +33,7 @@ I'm fluent in the languages that build the web and fuel innovation:
 
 ## 🎨 Featured Projects
 Explore my portfolio and the magic I bring to the web:  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-HarshMoye-lightgrey?style=for-the-badge)](https://portfolio-website-alpha-five.vercel.app/)
 
 ---
