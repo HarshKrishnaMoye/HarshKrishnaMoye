@@ -1,17 +1,59 @@
-👋 Hello there! I'm Harsh Moye, and I'm excited to have you here. Let me give you a glimpse into who I am and what I'm all about.
+### Hello there! 👋 I'm Harsh Krishna Moye
 
-First off, I've always been a curious soul, fascinated by how things work. Whether it's dissecting gadgets or diving into the world of coding, I thrive on understanding the nuts and bolts of everything around me.
+🚀 **Curiosity drives me, coding empowers me, and creativity inspires me.**  
+I'm excited to have you here, so let me take you on a journey through my world of code, design, and beyond!
 
-Coding has become my creative outlet. There's something magical about turning lines of code into digital realities, and I love every minute of it. But my interests don't stop there—I'm also passionate about design and the power it holds to transform experiences.
+---
 
-And beyond that, I'm also deeply passionate about acting, dancing, and playing sports like cricket, football, volleyball, and badminton. Whether it's rehearsing for a play or hitting the field, I love exploring different forms of expression and staying active.
+## 🌱 What I’m Exploring
 
-💼 Certified Meta® Front-end Developer, ensuring top-notch performance and innovation in every project.
+Curiosity has always been my compass, whether it's **dissecting gadgets** or **diving into code**. Web development is my playground, where **React JS**, **Next JS**, and **Framer Motion** come together to turn visions into digital realities. With a passion for **UI/UX design** and a love for solving problems with algorithms, I thrive on creating seamless and visually captivating user experiences.
 
-🔍 Passion runs deep in my veins for crafting experiences that not only catch your eye but also steal your heart. I dive deep into user behavior, ensuring every click feels like a smooth sail. Because technology isn't just about bits and bytes; it's about sparking real emotions and forging genuine connections.
+But the fun doesn’t stop at coding. **Acting**, **dancing**, and playing sports like **cricket**, **football**, **volleyball**, and **badminton** keep me balanced. Whether I'm on stage, on the field, or on my code editor, I’m always crafting new stories and challenges. 🎭🏏⚽🏸
 
-🔬 Driven by curiosity and armed with a perfectionist's eye, I'm itching to dive into projects where innovation dances hand in hand with functionality. Let's turn your digital dreams into dazzling realities! 
+---
 
-📫 You can reach me via [email](mailto:harshmoye03@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-moye-2646952a9/).
+## 💻 Languages & Tech Stack
 
-😄 Pronouns: He/Him
+I'm fluent in the languages that build the web and fuel innovation:
+- **Frontend:** HTML | CSS | SCSS | JavaScript | React JS | Next JS | Redux | Tailwind CSS | Bootstrap | Framer Motion
+- **Backend:** Node JS | Express JS
+- **Programming Languages:** Java | C++
+- **Database Systems:** MySQL | MongoDB
+- **UX/UI Design:** Figma
+
+---
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKrishnaMoye&show_icons=true&theme=chartreuse-dark)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshKrishnaMoye&theme=chartreuse-dark)](https://github.com/HarshKrishnaMoye)
+
+---
+
+## 🎨 Featured Projects
+Explore my portfolio and the magic I bring to the web:  
+[![Portfolio](https://img.shields.io/badge/Portfolio-HarshMoye-lightgrey?style=for-the-badge)](https://portfolio-website-alpha-five.vercel.app/)
+
+---
+
+## 🛠️ Skills Breakdown
+
+- **Web Development**: Creating sleek and responsive web apps with modern frameworks.
+- **Data Structures & Algorithms**: Crafting efficient solutions to complex problems.
+- **UI/UX Design**: Designing intuitive and user-friendly interfaces with **Figma**.
+
+---
+
+## 🤝 Connect with Me
+
+Feel free to reach out if you'd like to chat about tech, design, or even cricket!
+
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-HarshMoye-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harsh-moye-2646952a9/)
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-HarshMoye-black?style=flat-square&logo=github)](https://github.com/HarshKrishnaMoye)
+- Email: [![Email](https://img.shields.io/badge/Email-HarshMoye-red?style=flat-square&logo=gmail)](mailto:harshmoye03@gmail.com)
+- Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-HarshMoye-lightgrey?style=flat-square&logo=vercel)](https://portfolio-website-alpha-five.vercel.app/)
+
+---
+
+⚡ **Fun fact**: When I’m not coding, you’ll likely find me on a cricket field or on stage performing—balancing creativity and precision, both on-screen and off. 🎬🎤
